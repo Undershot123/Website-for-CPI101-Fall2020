@@ -1,0 +1,33 @@
+body {background-color:lavender;}
+
+.link{color:purple;}
+.link:hover{color:white;}
+
+.box{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header{
+	text-align:center;
+	color:white;
+	font-family: Times New Roman;
+	position: absolute;
+	font-size: 25px;
+	left:530px;
+}
+
+.main_picture{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	height: 600px;
+}
+
+.footer{
+	text-align:center;
+	color:black;
+}
+
